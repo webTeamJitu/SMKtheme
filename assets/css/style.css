@@ -1833,6 +1833,9 @@ img.svg{
 .glax_tm_home_service_list ul li .inner_list .description p{
 	color: #666;
 	margin-bottom: 20px;
+	color: #666;
+	margin-bottom: 20px;
+	text-align: center;
 }
 .glax_tm_button_more_wrap{
 	width: 100%;
@@ -5908,4 +5911,9 @@ width:100%;
 		.h-one p{
 			padding-bottom: 0 !important;
 		}
+}
+
+.title_holder{
+	display: flex;
+	justify-content: center;
 }
