@@ -5912,3 +5912,8 @@ width:100%;
 			padding-bottom: 0 !important;
 		}
 }
+
+.title_holder{
+	display: flex;
+	justify-content: center;
+}
