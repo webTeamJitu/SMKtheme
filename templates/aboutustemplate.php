@@ -133,7 +133,7 @@ get_header();
                                                 </div>
                                             </div>
                                             <div class="single-leader-cont">
-                                                <img src="https://smk.jitudevops.com/wp-content/uploads/2022/11/porter.webp" alt="" class="l-thumbnail">
+                                                <img src="<?php echo esc_url(get_template_directory_uri());?>/assets/img/thumbnail/Picture3.png" alt="" class="l-thumbnail">
                                                 <div class="main_definitions">
                                                     <h3>Jason Porter</h3>
                                                     <h4>Director of Estimating</h4>
