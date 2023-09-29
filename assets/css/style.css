@@ -64,6 +64,11 @@ img.svg{
 	justify-content: space-between;
 	margin-bottom: 20px;
 }
+
+.icon_wrap{
+	margin: 28px auto !important;
+}
+
 @media only screen and (max-width: 767px) {
 	.all-leader-cont{
 		display: flex;

@@ -215,7 +215,7 @@ get_header();
 									<h3>Machine Cutting</h3>
 								</div>
 								<div class="description">
-									<p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
+									<p>Our advanced machine tools provide complex cutting of virtually any material with superior accuracy</p>
 								</div>
 							</div>
 						</li>
