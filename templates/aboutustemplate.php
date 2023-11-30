@@ -148,6 +148,7 @@ get_header();
                                                 and Field Manager for Thews Sheet Metal. Mr. Fiocchi specializes in
                                                 Critical Path Projects and serves as the lead mentor for the SMK field
                                                 team.</p>
+                                            <br>
                                             <a href="mailto:rfiocchi@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E"
                                                     xmlns="http://www.w3.org/2000/svg" width="16" height="16"
